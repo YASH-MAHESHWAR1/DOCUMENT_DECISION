@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+openai
+sentence-transformers
+PyPDF2
+python-docx
+pandas
+numpy
+python-dotenv
+faiss-cpu
+plotly
+psutil
+tabulate
